@@ -11,3 +11,5 @@ Another way to make subheading is via --
 --
 Test from development
 Another test, im guessing ini harusnya muncul di merge request
+Test from collaborator/contributor (bc i can commit)  
+Nice from owner baru bener
