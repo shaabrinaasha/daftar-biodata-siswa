@@ -6,7 +6,7 @@
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br>
  
-2. Nama   : Erna Mulyani<br>
+2. Nama   : Shabrina Nurmalitasari<br>
    NIM    : H202000006<br>
    JK     : Perempuan<br>
    Agama  : Islam<br>
