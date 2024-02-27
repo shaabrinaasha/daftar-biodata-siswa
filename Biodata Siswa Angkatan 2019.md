@@ -13,7 +13,7 @@
    TTL    : Samarinda, 02 Juni 2003<br>
    Alamat : Jln. Bantuas RT.01 No.18<br>
  
-3. Nama   : Indah Istiqomah<br>
+3. Nama   : Mery Adyatma<br>
    NIM    : H2020000003<br>
    JK     : Perempuan<br>
    Agama  : Islam<br>
